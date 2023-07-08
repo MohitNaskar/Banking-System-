@@ -1,0 +1,2 @@
+# Banking-System-
+This is a project based on the development of Banking System. It comprises of creation of customer account and handling the account to money deposits Language used: python 3.8.3, sql database
